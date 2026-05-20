@@ -1,0 +1,162 @@
+[
+  {
+    "sku_id": "parle_g_250g",
+    "product_name": "Parle-G Gold Biscuits",
+    "brand": "Parle",
+    "category": "biscuits",
+    "weight": "250g",
+    "image_path": "catalogue/images/parle_g_250g.jpg"
+  },
+  {
+    "sku_id": "parle_monaco_200g",
+    "product_name": "Parle Monaco Classic Biscuits",
+    "brand": "Parle",
+    "category": "biscuits",
+    "weight": "200g",
+    "image_path": "catalogue/images/parle_monaco_200g.jpg"
+  },
+  {
+    "sku_id": "parle_hide_seek_100g",
+    "product_name": "Parle Hide & Seek Chocolate Chip Cookies",
+    "brand": "Parle",
+    "category": "biscuits",
+    "weight": "100g",
+    "image_path": "catalogue/images/parle_hide_seek_100g.jpg"
+  },
+  {
+    "sku_id": "britannia_good_day_butter_150g",
+    "product_name": "Britannia Good Day Butter Cookies",
+    "brand": "Britannia",
+    "category": "biscuits",
+    "weight": "150g",
+    "image_path": "catalogue/images/britannia_good_day_butter_150g.jpg"
+  },
+  {
+    "sku_id": "britannia_good_day_cashew_150g",
+    "product_name": "Britannia Good Day Cashew Cookies",
+    "brand": "Britannia",
+    "category": "biscuits",
+    "weight": "150g",
+    "image_path": "catalogue/images/britannia_good_day_cashew_150g.jpg"
+  },
+  {
+    "sku_id": "britannia_bourbon_150g",
+    "product_name": "Britannia Bourbon Chocolate Cream Biscuits",
+    "brand": "Britannia",
+    "category": "biscuits",
+    "weight": "150g",
+    "image_path": "catalogue/images/britannia_bourbon_150g.jpg"
+  },
+  {
+    "sku_id": "britannia_marie_gold_250g",
+    "product_name": "Britannia Marie Gold Biscuits",
+    "brand": "Britannia",
+    "category": "biscuits",
+    "weight": "250g",
+    "image_path": "catalogue/images/britannia_marie_gold_250g.jpg"
+  },
+  {
+    "sku_id": "britannia_5050_150g",
+    "product_name": "Britannia 50-50 Maska Chaska",
+    "brand": "Britannia",
+    "category": "biscuits",
+    "weight": "150g",
+    "image_path": "catalogue/images/britannia_5050_150g.jpg"
+  },
+  {
+    "sku_id": "oreo_vanilla_120g",
+    "product_name": "Oreo Vanilla Creme Biscuits",
+    "brand": "Cadbury Oreo",
+    "category": "biscuits",
+    "weight": "120g",
+    "image_path": "catalogue/images/oreo_vanilla_120g.jpg"
+  },
+  {
+    "sku_id": "oreo_chocolate_120g",
+    "product_name": "Oreo Chocolate Creme Biscuits",
+    "brand": "Cadbury Oreo",
+    "category": "biscuits",
+    "weight": "120g",
+    "image_path": "catalogue/images/oreo_chocolate_120g.jpg"
+  },
+  {
+    "sku_id": "sunfeast_dark_fantasy_150g",
+    "product_name": "Sunfeast Dark Fantasy Choco Fills",
+    "brand": "Sunfeast",
+    "category": "biscuits",
+    "weight": "150g",
+    "image_path": "catalogue/images/sunfeast_dark_fantasy_150g.jpg"
+  },
+  {
+    "sku_id": "sunfeast_marie_light_200g",
+    "product_name": "Sunfeast Marie Light Original",
+    "brand": "Sunfeast",
+    "category": "biscuits",
+    "weight": "200g",
+    "image_path": "catalogue/images/sunfeast_marie_light_200g.jpg"
+  },
+  {
+    "sku_id": "mcvities_digestive_250g",
+    "product_name": "McVitie's Digestive Biscuits",
+    "brand": "McVitie's",
+    "category": "biscuits",
+    "weight": "250g",
+    "image_path": "catalogue/images/mcvities_digestive_250g.jpg"
+  },
+  {
+    "sku_id": "parle_krackjack_200g",
+    "product_name": "Parle Krackjack Sweet & Salty Biscuits",
+    "brand": "Parle",
+    "category": "biscuits",
+    "weight": "200g",
+    "image_path": "catalogue/images/parle_krackjack_200g.jpg"
+  },
+  {
+    "sku_id": "britannia_jimjam_150g",
+    "product_name": "Britannia Jim Jam Cream Biscuits",
+    "brand": "Britannia",
+    "category": "biscuits",
+    "weight": "150g",
+    "image_path": "catalogue/images/britannia_jimjam_150g.jpg"
+  },
+  {
+    "sku_id": "britannia_milk_bikis_200g",
+    "product_name": "Britannia Milk Bikis Biscuits",
+    "brand": "Britannia",
+    "category": "biscuits",
+    "weight": "200g",
+    "image_path": "catalogue/images/britannia_milk_bikis_200g.jpg"
+  },
+  {
+    "sku_id": "sunfeast_mom_magic_200g",
+    "product_name": "Sunfeast Mom's Magic Butter Biscuits",
+    "brand": "Sunfeast",
+    "category": "biscuits",
+    "weight": "200g",
+    "image_path": "catalogue/images/sunfeast_mom_magic_200g.jpg"
+  },
+  {
+    "sku_id": "priyagold_butter_bite_200g",
+    "product_name": "Priyagold Butter Bite Biscuits",
+    "brand": "Priyagold",
+    "category": "biscuits",
+    "weight": "200g",
+    "image_path": "catalogue/images/priyagold_butter_bite_200g.jpg"
+  },
+  {
+    "sku_id": "britannia_tiger_glucose_250g",
+    "product_name": "Britannia Tiger Glucose Biscuits",
+    "brand": "Britannia",
+    "category": "biscuits",
+    "weight": "250g",
+    "image_path": "catalogue/images/britannia_tiger_glucose_250g.jpg"
+  },
+  {
+    "sku_id": "unibic_choco_chip_150g",
+    "product_name": "Unibic Choco Chip Cookies",
+    "brand": "Unibic",
+    "category": "biscuits",
+    "weight": "150g",
+    "image_path": "catalogue/images/unibic_choco_chip_150g.jpg"
+  }
+]
