@@ -85,14 +85,14 @@ Crop embedding → Cosine similarity against catalogue embeddings → Best match
 - High confidence (>0.75): accept match
 - Low confidence (<0.75): flag as "unknown"
 
-### VLM Fallback (GPT-4o Vision)
-- For unknown/low-confidence crops, send to GPT-4o Vision
-- Ask: "What product is this? Return product name and brand."
-- Shows hybrid approach: cheap model first, expensive API only when needed
+### VLM Fallback (Qwen2.5-VL local)
+- For unknown/low-confidence crops, send to Qwen2.5-VL-3B-Instruct (local, no API key needed)
+- Ask: "Identify this product from the catalogue list"
+- Shows hybrid approach: cheap CLIP first, VLM only when needed
 
 ### Deliverables
-- `src/matcher.py` — matching module
-- `src/vlm_fallback.py` — GPT-4o Vision fallback
+- `src/matcher.py` — matching module (CLIP similarity + VLM dispatch)
+- `src/vlm_fallback.py` — Qwen2.5-VL fallback module
 
 ---
 

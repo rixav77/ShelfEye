@@ -1,0 +1,11 @@
+{
+  "name": "Biscuit Shelf Standard Layout",
+  "source_image": "shelf_03.jpg",
+  "rows": {
+    "1": ["oreo_chocolate_120g"],
+    "2": ["britannia_milk_bikis_200g", "oreo_chocolate_120g", "britannia_good_day_butter_150g", "sunfeast_mom_magic_200g"],
+    "3": ["britannia_good_day_butter_150g"],
+    "4": ["parle_g_250g", "unibic_choco_chip_150g", "sunfeast_marie_light_200g"],
+    "5": ["parle_krackjack_200g"]
+  }
+}

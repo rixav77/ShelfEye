@@ -1,0 +1,204 @@
+{
+  "image": "shelf_04.jpg",
+  "timestamp": "2026-05-21T18:22:08",
+  "total_products": 13,
+  "matched": 13,
+  "unmatched": 0,
+  "products": [
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7031,
+      "bbox": [
+        445,
+        806,
+        553,
+        898
+      ],
+      "row": 5,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.7138,
+      "bbox": [
+        492,
+        463,
+        625,
+        546
+      ],
+      "row": 3,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.717,
+      "bbox": [
+        407,
+        0,
+        481,
+        102
+      ],
+      "row": 1,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6844,
+      "bbox": [
+        291,
+        60,
+        345,
+        156
+      ],
+      "row": 1,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.7137,
+      "bbox": [
+        478,
+        502,
+        602,
+        583
+      ],
+      "row": 3,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_marie_gold_250g",
+      "product_name": "Britannia Marie Gold Biscuits",
+      "confidence": 0.7311,
+      "bbox": [
+        559,
+        211,
+        673,
+        273
+      ],
+      "row": 2,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.666,
+      "bbox": [
+        287,
+        648,
+        376,
+        761
+      ],
+      "row": 4,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6609,
+      "bbox": [
+        530,
+        713,
+        639,
+        804
+      ],
+      "row": 4,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_marie_gold_250g",
+      "product_name": "Britannia Marie Gold Biscuits",
+      "confidence": 0.7135,
+      "bbox": [
+        403,
+        229,
+        560,
+        329
+      ],
+      "row": 2,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.5363,
+      "bbox": [
+        253,
+        64,
+        294,
+        167
+      ],
+      "row": 1,
+      "column": 1,
+      "matched": true,
+      "match_method": "vlm"
+    },
+    {
+      "sku_id": "sunfeast_mom_magic_200g",
+      "product_name": "Sunfeast Mom's Magic Butter Biscuits",
+      "confidence": 0.6811,
+      "bbox": [
+        538,
+        266,
+        673,
+        335
+      ],
+      "row": 2,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "oreo_vanilla_120g",
+      "product_name": "Oreo Vanilla Creme Biscuits",
+      "confidence": 0.6944,
+      "bbox": [
+        469,
+        662,
+        546,
+        732
+      ],
+      "row": 4,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.7626,
+      "bbox": [
+        511,
+        429,
+        638,
+        493
+      ],
+      "row": 3,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    }
+  ]
+}

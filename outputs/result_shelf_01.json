@@ -1,0 +1,504 @@
+{
+  "image": "shelf_01.jpg",
+  "timestamp": "2026-05-21T18:21:55",
+  "total_products": 33,
+  "matched": 33,
+  "unmatched": 0,
+  "products": [
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.7035,
+      "bbox": [
+        945,
+        482,
+        1133,
+        626
+      ],
+      "row": 4,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.7333,
+      "bbox": [
+        1131,
+        479,
+        1316,
+        624
+      ],
+      "row": 4,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.7054,
+      "bbox": [
+        1504,
+        482,
+        1687,
+        621
+      ],
+      "row": 4,
+      "column": 4,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.7029,
+      "bbox": [
+        1316,
+        493,
+        1505,
+        623
+      ],
+      "row": 4,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.6942,
+      "bbox": [
+        1692,
+        492,
+        1875,
+        623
+      ],
+      "row": 4,
+      "column": 5,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.6844,
+      "bbox": [
+        718,
+        1089,
+        1344,
+        1360
+      ],
+      "row": 10,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.7049,
+      "bbox": [
+        1350,
+        1136,
+        2008,
+        1353
+      ],
+      "row": 11,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6895,
+      "bbox": [
+        318,
+        183,
+        631,
+        255
+      ],
+      "row": 3,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "priyagold_butter_bite_200g",
+      "product_name": "Priyagold Butter Bite Biscuits",
+      "confidence": 0.7414,
+      "bbox": [
+        318,
+        20,
+        635,
+        109
+      ],
+      "row": 1,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7237,
+      "bbox": [
+        749,
+        935,
+        937,
+        1017
+      ],
+      "row": 9,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "parle_g_250g",
+      "product_name": "Parle-G Gold Biscuits",
+      "confidence": 0.7272,
+      "bbox": [
+        40,
+        1133,
+        693,
+        1358
+      ],
+      "row": 11,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.704,
+      "bbox": [
+        949,
+        938,
+        1133,
+        1017
+      ],
+      "row": 9,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_marie_gold_250g",
+      "product_name": "Britannia Marie Gold Biscuits",
+      "confidence": 0.7043,
+      "bbox": [
+        746,
+        617,
+        934,
+        705
+      ],
+      "row": 5,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.727,
+      "bbox": [
+        1133,
+        938,
+        1316,
+        1017
+      ],
+      "row": 9,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "sunfeast_mom_magic_200g",
+      "product_name": "Sunfeast Mom's Magic Butter Biscuits",
+      "confidence": 0.6826,
+      "bbox": [
+        321,
+        106,
+        644,
+        185
+      ],
+      "row": 2,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7356,
+      "bbox": [
+        1318,
+        939,
+        1503,
+        1018
+      ],
+      "row": 9,
+      "column": 4,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7058,
+      "bbox": [
+        950,
+        782,
+        1141,
+        863
+      ],
+      "row": 7,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7122,
+      "bbox": [
+        1125,
+        623,
+        1311,
+        706
+      ],
+      "row": 5,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7245,
+      "bbox": [
+        933,
+        626,
+        1124,
+        706
+      ],
+      "row": 5,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7266,
+      "bbox": [
+        1139,
+        780,
+        1315,
+        862
+      ],
+      "row": 7,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7207,
+      "bbox": [
+        1313,
+        623,
+        1497,
+        705
+      ],
+      "row": 5,
+      "column": 4,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7328,
+      "bbox": [
+        33,
+        187,
+        317,
+        259
+      ],
+      "row": 3,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6998,
+      "bbox": [
+        761,
+        858,
+        947,
+        939
+      ],
+      "row": 8,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7044,
+      "bbox": [
+        1503,
+        938,
+        1680,
+        1017
+      ],
+      "row": 9,
+      "column": 5,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6949,
+      "bbox": [
+        755,
+        778,
+        942,
+        860
+      ],
+      "row": 7,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7083,
+      "bbox": [
+        948,
+        703,
+        1134,
+        784
+      ],
+      "row": 6,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6794,
+      "bbox": [
+        1327,
+        858,
+        1510,
+        941
+      ],
+      "row": 8,
+      "column": 4,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7018,
+      "bbox": [
+        959,
+        861,
+        1142,
+        940
+      ],
+      "row": 8,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7183,
+      "bbox": [
+        1139,
+        861,
+        1325,
+        940
+      ],
+      "row": 8,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6876,
+      "bbox": [
+        758,
+        705,
+        946,
+        781
+      ],
+      "row": 6,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6836,
+      "bbox": [
+        1680,
+        938,
+        1870,
+        1017
+      ],
+      "row": 9,
+      "column": 6,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.7086,
+      "bbox": [
+        1313,
+        704,
+        1496,
+        784
+      ],
+      "row": 6,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_milk_bikis_200g",
+      "product_name": "Britannia Milk Bikis Biscuits",
+      "confidence": 0.6873,
+      "bbox": [
+        1496,
+        780,
+        1685,
+        863
+      ],
+      "row": 7,
+      "column": 4,
+      "matched": true,
+      "match_method": "clip"
+    }
+  ]
+}

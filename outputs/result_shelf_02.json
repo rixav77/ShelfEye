@@ -1,0 +1,159 @@
+{
+  "image": "shelf_02.jpg",
+  "timestamp": "2026-05-21T18:21:56",
+  "total_products": 10,
+  "matched": 10,
+  "unmatched": 0,
+  "products": [
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.7378,
+      "bbox": [
+        1,
+        74,
+        296,
+        272
+      ],
+      "row": 1,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.729,
+      "bbox": [
+        3,
+        262,
+        314,
+        446
+      ],
+      "row": 2,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.7152,
+      "bbox": [
+        294,
+        98,
+        544,
+        269
+      ],
+      "row": 1,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.7834,
+      "bbox": [
+        311,
+        260,
+        536,
+        420
+      ],
+      "row": 2,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "priyagold_butter_bite_200g",
+      "product_name": "Priyagold Butter Bite Biscuits",
+      "confidence": 0.7224,
+      "bbox": [
+        697,
+        251,
+        829,
+        356
+      ],
+      "row": 2,
+      "column": 4,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.7772,
+      "bbox": [
+        529,
+        258,
+        696,
+        380
+      ],
+      "row": 2,
+      "column": 3,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.6853,
+      "bbox": [
+        28,
+        415,
+        342,
+        604
+      ],
+      "row": 4,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "britannia_good_day_butter_150g",
+      "product_name": "Britannia Good Day Butter Cookies",
+      "confidence": 0.6585,
+      "bbox": [
+        645,
+        139,
+        817,
+        203
+      ],
+      "row": 1,
+      "column": 4,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "sunfeast_mom_magic_200g",
+      "product_name": "Sunfeast Mom's Magic Butter Biscuits",
+      "confidence": 0.7106,
+      "bbox": [
+        149,
+        109,
+        278,
+        244
+      ],
+      "row": 1,
+      "column": 2,
+      "matched": true,
+      "match_method": "clip"
+    },
+    {
+      "sku_id": "sunfeast_mom_magic_200g",
+      "product_name": "Sunfeast Mom's Magic Butter Biscuits",
+      "confidence": 0.7328,
+      "bbox": [
+        341,
+        386,
+        564,
+        531
+      ],
+      "row": 3,
+      "column": 1,
+      "matched": true,
+      "match_method": "clip"
+    }
+  ]
+}
