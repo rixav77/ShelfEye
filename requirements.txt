@@ -1,0 +1,9 @@
+torch
+torchvision
+transformers
+accelerate
+gradio
+opencv-python-headless
+Pillow
+numpy
+qwen-vl-utils
